@@ -1,0 +1,11 @@
+{
+    "arquivo1": {
+        "conteudo": "Informação do arquivo 1"
+    },
+    "arquivo2": {
+        "conteudo": "Informação do arquivo 2"
+    },
+    "arquivo3": {
+        "conteudo": "Informação do arquivo 3"
+    }
+}
